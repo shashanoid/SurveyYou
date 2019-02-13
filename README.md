@@ -8,3 +8,6 @@ Clone the repo and cd into 'src' folder then do the following:
 javac TestSurveyClient.java
 Java TestSurveyClient
 ```
+
+Saved tests or surveys would appear under 'TakenSurveys' & 'TakenTests' folders respectively.
+
